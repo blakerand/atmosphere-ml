@@ -1,0 +1,16 @@
+{
+  "name": "pollution_prediction",
+  "version": "1.0.0",
+  "description": "Run geocodeBatch.js to get the coordinates of each location.",
+  "main": "geocodeBatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "papaparse": "^5.5.1"
+  }
+}

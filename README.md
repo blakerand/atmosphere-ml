@@ -34,7 +34,6 @@ graph TD
 - Successfully geocoded 600,000+ EPA monitoring station addresses using Census Batch API
 - Implemented intelligent batching (9,500 records/batch) to handle API rate limits
 - Achieved 99.7% successful geocoding rate through robust error handling
-- Processed 20+ years of hourly readings (>175 million data points)
 - Engineered cyclical temporal features for enhanced seasonality learning
 
 ### Feature Engineering

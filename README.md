@@ -51,14 +51,6 @@ npm install
 node predict.js
 ```
 
-## Model Performance
-
-Our model achieves:
-
-- Mean Absolute Error (MAE) < 5 AQI points
-- 85%+ accuracy in predicting high pollution events
-- Real-time inference in < 100ms
-
 ## Dataset
 
 We trained on the [EPA Air Quality Dataset](https://www.kaggle.com/datasets/guslovesmath/us-pollution-data-200-to-2022/data), which includes:
